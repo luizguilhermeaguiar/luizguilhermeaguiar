@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Luiz Aguiar 👋</h1>
+<h1 align="center">
+  Hi, I'm Luiz Aguiar <sub><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU2bXNzMzhvZGhta3lhOWI5MGVodnFzMXdrOTE2M2FhMmFvOXF2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40"></sub>
+</h1>
 
-<h3 align="center">Software Developer in Progress | Python & Web Development</h3>
+<h3 align="center">
+  Software Developer in Progress | Python & Web Development
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
