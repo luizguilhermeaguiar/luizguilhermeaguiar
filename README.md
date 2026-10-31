@@ -87,12 +87,20 @@ A practical project developed as part of my programming studies, focused on buil
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=luizguilhermeaguiar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="'180'" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=luizguilhermeaguiar&show_icons=true&locale=en&hide=contribs&cache_seconds=21600&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&ring_color=58A6FF&custom_title=GitHub%20Statistics"
   />
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizguilhermeaguiar&layout=compact&theme=github_dark&hide_border=true"
-  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=luizguilhermeaguiar&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D"
+    />
 </p>
 
 <p align="center">
