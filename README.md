@@ -86,28 +86,27 @@ A practical project developed as part of my programming studies, focused on buil
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    align="left" 
-    alt="GitHub Stats" 
-    width="49%"
-    height="'180'" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=luizguilhermeaguiar&show_icons=true&locale=en&hide=contribs&cache_seconds=21600&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&ring_color=58A6FF&custom_title=GitHub%20Statistics"
-  />
-
-  <img 
-    align="left" 
-    width="49%"
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=luizguilhermeaguiar&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D"
-    />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizguilhermeaguiar&theme=github_dark" />
-</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <!-- Linha de cima com as duas imagens com proporções corrigidas -->
+  <tr style="border: none;">
+    <td width="56.2%" style="border: none; padding: 0; vertical-align: top;">
+      <img src="https://github-readme-stats-two-omega-43.vercel.app/api?username=luizguilhermeaguiar&show_icons=true&locale=en&hide=contribs&cache_seconds=21600&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&ring_color=58A6FF&custom_title=GitHub%20Statistics" width="100%" alt="Primeira Imagem" style="display: block;">
+    </td>
+    <td width="43.8%" style="border: none; padding: 0; vertical-align: top;">
+      <img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=luizguilhermeaguiar&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" width="100%" alt="Segunda Imagem" style="display: block;">
+    </td>
+  </tr>
+  <!-- Espaço discreto entre as linhas -->
+  <tr style="border: none; height: 12px;">
+    <td colspan="2" style="border: none; padding: 0;"></td>
+  </tr>
+  <!-- Linha de baixo com a terceira imagem ocupando o espaço total -->
+  <tr style="border: none;">
+    <td colspan="2" style="border: none; padding: 0;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizguilhermeaguiar&theme=github_dark" width="100%" alt="Terceira Imagem" style="display: block;">
+    </td>
+  </tr>
+</table>
 
 ---
 
