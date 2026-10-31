@@ -86,28 +86,19 @@ A practical project developed as part of my programming studies, focused on buil
 
 ## 📊 GitHub Analytics
 
-<!-- Container principal livre de linhas cinzas -->
-<div style="width: 100%; clear: both;">
-  
-  <!-- Bloco da Esquerda (Primeira Imagem) -->
-  <div style="float: left; width: 56.2%; box-sizing: border-box;">
-    <img src="https://github-readme-stats-two-omega-43.vercel.app/api?username=luizguilhermeaguiar&show_icons=true&locale=en&hide=contribs&cache_seconds=21600&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&ring_color=58A6FF&custom_title=GitHub%20Statistics" width="100%" alt="Primeira Imagem" style="display: block;">
-  </div>
-  
-  <!-- Bloco da Direita (Segunda Imagem) -->
-  <div style="float: left; width: 43.8%; box-sizing: border-box;">
-    <img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=luizguilhermeaguiar&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" width="100%" alt="Segunda Imagem" style="display: block;">
-  </div>
-  
-  <!-- Limpa o alinhamento para que a terceira imagem fique obrigatoriamente embaixo -->
-  <div style="clear: both; height: 12px;"></div>
-  
-  <!-- Bloco de Baixo (Terceira Imagem) -->
-  <div style="width: 100%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizguilhermeaguiar&theme=github_dark"" width="100%" alt="Terceira Imagem" style="display: block;">
-  </div>
+<p align="center" style="display: block; width: 100%; clear: both; margin: 0;">
+  <!-- Primeira Imagem -->
+  <img src="https://github-readme-stats-two-omega-43.vercel.app/api?username=luizguilhermeaguiar&show_icons=true&locale=en&hide=contribs&cache_seconds=21600&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&ring_color=58A6FF&custom_title=GitHub%20Statistics" width="56.2%" alt="Primeira Imagem" style="display: inline-block; vertical-align: top; margin: 0;"><img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=luizguilhermeaguiar&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&border_color=30363D" width="43.8%" alt="Segunda Imagem" style="display: inline-block; vertical-align: top; margin: 0;">
+</p>
 
-</div>
+<!-- Espaço discreto entre as linhas -->
+<div style="clear: both; height: 12px;"></div>
+
+<!-- Terceira Imagem embaixo -->
+<p align="center" style="display: block; width: 100%; margin: 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizguilhermeaguiar&theme=github_dark"" width="100%" alt="Terceira Imagem" style="display: block;">
+</p>
+
 
 
 ---
